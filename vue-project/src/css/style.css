@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+.box {
+    width: 100vw;
+    height: 5000px;
+    background: lightgray;
+}
+
+.p-menubar {
+    border: 0px !important;
+}
+
+.bar {
+    background: #f8f9fa;
+    background: #eeeeee;
+}
+
+.p-menubar-end i {
+    margin: 0 10px;
+}
