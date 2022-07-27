@@ -15,6 +15,7 @@ mongoose.connect(process.env.DB_URL)
 const app = express()
 
 app.use(express.json())
+
 app.use((_, req, res, next) => {
   res.status(400).send({ success: false, message: '請求格式錯誤' })
 })

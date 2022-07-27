@@ -1,6 +1,7 @@
 <template>
-  <div class="box">
-  </div>
+    <div class="box">
+        login
+    </div>
 </template>
 
 <script setup>

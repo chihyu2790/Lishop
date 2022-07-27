@@ -1,5 +1,3 @@
-import products from '../models/products.js'
-
 export const createProduct = async (req, res) => {
 }
 // 新建商品
