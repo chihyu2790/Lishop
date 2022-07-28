@@ -73,7 +73,7 @@ const schema = new mongoose.Schema({
     ]
   },
 
-  love: {
+  like: {
     type: [
       {
         product: {
